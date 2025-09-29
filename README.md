@@ -27,6 +27,7 @@ Frontend: HTML
 Backend: PHP
 Database: MySQL
 
+🔹 Project Structure
 /Internship
 │── createDB.php           # Creates the database
 │── createTable.php        # Creates required tables
@@ -38,4 +39,4 @@ Database: MySQL
 
 File Handling: PHP file upload with PDF validation
 
-🔹 Project Structure
+
